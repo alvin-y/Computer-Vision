@@ -1,5 +1,7 @@
 # Computer-Vision
 
+The following programs implement several computer vision techniques as well as algorithms in order to analyse, alter and recognize images.
+
 BlackWhite.java converts an image into black and white and then finds the number of black pixels in each connected region of the converted image.
 
 FeatureVector.java takes an image and analyses each individual component and returns a text file containing feature vectors of each symbol.
